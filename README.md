@@ -1,3 +1,4 @@
+
 # 💻 LaptopWatch
 
 > A lightweight Windows desktop monitoring application that sends real-time Telegram notifications when important laptop events occur — silently running in the background, always keeping you informed.
@@ -660,3 +661,7 @@ This project is licensed under the **MIT License** — you are free to use, modi
 Made with ❤️ and Python · Running silently, watching always 👁️
 
 </div>
+=======
+# lockguard
+A lightweight Python app that monitors Windows Security Event Logs and delivers real-time Telegram notifications for login, lock, and unlock events.
+>>>>>>> a61c45daf41db9036a62cff70424164504953a01
